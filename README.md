@@ -1,6 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAugustobrg&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaioAugustobrg&theme=tokyonight)](https://git.io/streak-stats)
 ---
+
 #### Back end
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -10,13 +11,17 @@
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 ---
+
 #### Version control system
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ---
+
 #### Storage 
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![BunnyCDN](https://img.shields.io/badge/BunnyCDN-FF6600?style=for-the-badge&logo=bunnycdn&logoColor=white)](https://bunny.net/)
 ---
+
+#### Find me
 <div>
 <a href="https://www.youtube.com/channel/UCrrXifdL79cNySnxN0U6w4Q" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:caioaugustobrg@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
