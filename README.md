@@ -9,7 +9,7 @@
 [![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white)](link_para_sua_referencia_sql)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-[Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+[![Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)]
 ---
 
 #### Version control system
